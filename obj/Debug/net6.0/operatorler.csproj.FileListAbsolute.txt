@@ -1,0 +1,15 @@
+/Users/ardasonmez/Documents/GitHub/operatorler/bin/Debug/net6.0/operatorler
+/Users/ardasonmez/Documents/GitHub/operatorler/bin/Debug/net6.0/operatorler.deps.json
+/Users/ardasonmez/Documents/GitHub/operatorler/bin/Debug/net6.0/operatorler.runtimeconfig.json
+/Users/ardasonmez/Documents/GitHub/operatorler/bin/Debug/net6.0/operatorler.dll
+/Users/ardasonmez/Documents/GitHub/operatorler/bin/Debug/net6.0/operatorler.pdb
+/Users/ardasonmez/Documents/GitHub/operatorler/obj/Debug/net6.0/operatorler.csproj.AssemblyReference.cache
+/Users/ardasonmez/Documents/GitHub/operatorler/obj/Debug/net6.0/operatorler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ardasonmez/Documents/GitHub/operatorler/obj/Debug/net6.0/operatorler.AssemblyInfoInputs.cache
+/Users/ardasonmez/Documents/GitHub/operatorler/obj/Debug/net6.0/operatorler.AssemblyInfo.cs
+/Users/ardasonmez/Documents/GitHub/operatorler/obj/Debug/net6.0/operatorler.csproj.CoreCompileInputs.cache
+/Users/ardasonmez/Documents/GitHub/operatorler/obj/Debug/net6.0/operatorler.dll
+/Users/ardasonmez/Documents/GitHub/operatorler/obj/Debug/net6.0/refint/operatorler.dll
+/Users/ardasonmez/Documents/GitHub/operatorler/obj/Debug/net6.0/operatorler.pdb
+/Users/ardasonmez/Documents/GitHub/operatorler/obj/Debug/net6.0/operatorler.genruntimeconfig.cache
+/Users/ardasonmez/Documents/GitHub/operatorler/obj/Debug/net6.0/ref/operatorler.dll
